@@ -1,0 +1,87 @@
+.items-heder{
+  border-bottom: 2px solid gainsboro;
+  margin: 40px 0px;
+}
+.items-heder h3{
+  font-family: 'Rajdhani', sans-serif;
+  color: rgb(128, 128, 128);
+  margin: 0px 40px;
+  cursor: pointer;
+}
+.items-heder h3:first-child{
+  border-bottom: 4px solid #1d9bf0;
+}
+.iconOfItems{
+  color: rgb(128, 128, 128);
+  font-size: 25px;
+}
+
+.items-container{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  color: rgb(128, 128, 128);
+  font-family: "Rajdhani", sans-serif;
+}
+.items-container a{
+  text-decoration: none;
+  color: rgb(128, 128, 128);
+}
+.items{
+  width: 350px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 10px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.items:hover{
+  width: 350px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.items img{
+  width: 100%;
+}
+.items h6{
+  font-size: 17px;
+  font-weight: 700;
+  color: rgb(75, 75, 75);
+}
+.items small{
+  font-size: 15px;
+}
+.items p{
+  font-size: 14px;
+}
+.items p:last-child{
+  margin-top: -15px;
+}
+.eth{
+  font-weight: 700;
+  color: rgb(75, 75, 75);
+  font-size: 15px;
+}
+.etherIcon, .clockIcon{
+  font-size: 13px;
+  margin-right: 5px;
+}
+.etherIcon{
+  color: rgb(223, 159, 76);
+}
+
+.items-content{
+  margin: 10px 15px;
+}
+.bid-content{
+  margin-left: auto;
+  text-align: right;
+}
+
+.reaction{
+  border-top: 2px solid rgb(236, 236, 236);
+  text-align: right;
+  padding: 10px;
+  font-size: 20px;
+}
+.reaction:hover{
+  color: rgb(204, 38, 38);
+}
