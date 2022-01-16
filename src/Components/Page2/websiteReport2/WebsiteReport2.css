@@ -1,0 +1,44 @@
+.profileImg{
+  position: absolute;
+  margin: auto;
+}
+.profileImg img{
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 100px;
+  margin-left: 675px;
+  margin-top: -80px;
+  background-color: gainsboro;
+  border: 2px solid rgb(158, 158, 158);
+  padding: 40px;
+  cursor: pointer;
+}
+.profileImg img:hover{
+  background-color: rgb(241, 241, 241);
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.social{
+  justify-content: right;
+  padding-top: 40px;
+}
+.social-icon{
+  font-size: 20px;
+  color: rgb(128, 128, 128);
+  padding: 10px 20px;
+  border: .5px solid gainsboro;
+  cursor: pointer;
+}
+.social-icon:hover{
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.social-icon:first-child{
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.social-icon:last-child{
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+

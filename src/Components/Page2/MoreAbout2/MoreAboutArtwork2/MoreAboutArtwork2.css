@@ -1,0 +1,57 @@
+
+/* More-About-Artwork-container css */
+.More-About-Artwork-container{
+  font-family: 'Rajdhani', sans-serif;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  margin-bottom: 20px;
+  padding: 40px 20px;
+  padding-bottom: 75px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
+.More-About-Artwork-container h3{
+  text-align: center;
+  /* padding: 10px 0px; */
+  font-family: 'Rajdhani', sans-serif;
+  color: #1d9bf0;
+  font-weight: 700;
+  margin-bottom: 20px;
+  margin-top: -15px;
+}
+.More-About-Artwork-container p{
+  font-family: 'Rajdhani', sans-serif;
+  color: #4d4d4d;
+  font-weight: 500;
+}
+.review-box{
+  width: 295px;
+  font-family: 'Rajdhani', sans-serif;
+  color: rgb(128, 128, 128);
+  text-align: center;
+  padding: 0px 10px;
+}
+.review-box span{
+  background-color: #5e5e5e;
+  border: .5px solid gainsboro;
+  padding: 7px 14px;
+  border-radius: 100px;
+  color: #ffffff;
+  font-size: 14px;
+  margin: 5px;
+}
+.review-box small{
+  font-size: 10px;
+  padding: 0px 5px;
+}
+.review-box small:nth-child(2){
+  border-left: 2px solid gainsboro;
+  border-right: 2px solid gainsboro;
+  
+}
+.avg-reviews-container{
+  margin: 20px 10px;
+}
+
+.history-box{
+  color: rgb(128, 128, 128);
+}
