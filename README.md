@@ -1,3 +1,4 @@
+![Screen Shot 2022-01-16 at 7 14 07 AM](https://user-images.githubusercontent.com/38181397/149662040-019112d9-4fe2-4400-af09-86f145bf998f.png)
 ### Measuring the quality of NFT creators and NFT artworks
 
 **Component-1: A comprehensive creator dashboard or a public creator profile page. **
