@@ -1,4 +1,4 @@
-![Screen Shot 2022-01-16 at 7 14 07 AM](https://user-images.githubusercontent.com/38181397/149662040-019112d9-4fe2-4400-af09-86f145bf998f.png)
+
 ### Measuring the quality of NFT creators and NFT artworks
 __________________________________________________
 **Component-1: A comprehensive creator dashboard or a public creator profile page. **
@@ -13,6 +13,9 @@ __________________________________________________
 >> Furthermore, machine learning models could be trained, taking the information mentioned above as the input, to classify legitimate vs. scam NFTs. Providing the model predictions to users can help them make more informed buying decisions, and reduce the chance of falling for scams.
  
 >>Investment companies can have more information for trading. Facilitate trust and reduce ambiguity
+![Screen Shot 2022-01-16 at 7 13 36 AM](https://user-images.githubusercontent.com/38181397/149662229-f7520a98-265e-4cf6-91b9-d7b73c904a62.png)
+
+
 ______________________________________________
 **Component-2: Visual hashing with state of art computer vision to compute visual similarity of two NFTs**
 
@@ -20,7 +23,7 @@ ______________________________________________
 
 # Impact
 >> When visual hashing detects highly similar NFTs, it can alert community members
-
+![Screen Shot 2022-01-16 at 7 14 07 AM](https://user-images.githubusercontent.com/38181397/149662040-019112d9-4fe2-4400-af09-86f145bf998f.png)
 
 ## Build##
 * git clone,
