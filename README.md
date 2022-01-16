@@ -13,7 +13,8 @@ __________________________________________________
 >> Furthermore, machine learning models could be trained, taking the information mentioned above as the input, to classify legitimate vs. scam NFTs. Providing the model predictions to users can help them make more informed buying decisions, and reduce the chance of falling for scams.
  
 >>Investment companies can have more information for trading. Facilitate trust and reduce ambiguity
-![Screen Shot 2022-01-16 at 7 13 36 AM](https://user-images.githubusercontent.com/38181397/149662229-f7520a98-265e-4cf6-91b9-d7b73c904a62.png)
+
+![Screen Shot 2022-01-16 at 10 41 22 AM](https://user-images.githubusercontent.com/38181397/149669258-ea30d73a-26d1-4cc5-8d15-8b2e6bc7953b.png)
 
 
 ______________________________________________
