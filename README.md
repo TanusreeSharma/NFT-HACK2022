@@ -1,6 +1,6 @@
 ![Screen Shot 2022-01-16 at 7 14 07 AM](https://user-images.githubusercontent.com/38181397/149662040-019112d9-4fe2-4400-af09-86f145bf998f.png)
 ### Measuring the quality of NFT creators and NFT artworks
-
+__________________________________________________
 **Component-1: A comprehensive creator dashboard or a public creator profile page. **
 
 >> Creators are incentivized to fill out the details, e.g., prior experience in NFTs and other content creation, and social media accounts. Interested buyers or collectors can then check the creator profile before purchasing the NFTs.  
@@ -20,7 +20,7 @@ ______________________________________________
 
 # Impact
 >> When visual hashing detects highly similar NFTs, it can alert community members
-___________________________________________
+
 
 ## Build##
 * git clone,
