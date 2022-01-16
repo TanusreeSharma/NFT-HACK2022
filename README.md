@@ -25,6 +25,9 @@ ______________________________________________
 >> When visual hashing detects highly similar NFTs, it can alert community members
 ![Screen Shot 2022-01-16 at 7 14 07 AM](https://user-images.githubusercontent.com/38181397/149662040-019112d9-4fe2-4400-af09-86f145bf998f.png)
 
+## Some sketch and design work: 
+https://docs.google.com/drawings/d/1JPLN2p5r_jrzA0s5OgQhCeBk2NvNBolEEKp3wBdQpik/edit
+
 ## Build##
 * git clone,
 * npm i,
